@@ -20,9 +20,9 @@ Los nombres se almacenan en un array de JavaScript y se muestran en la lista de 
 
 Mostrar lista de amigos:
 
-Los nombres ingresados se muestran dinámicamente en una lista <ul>. 
+Los nombres ingresados se muestran en una lista.
 
-Cada vez que se agrega un nombre, la lista se actualiza para evitar duplicados visuales.
+Cada vez que se agrega un nombre, la lista se actualiza para evitar duplicaciones.
 
 Sortear un amigo secreto: 
 Al presionar “Sortear amigo”, la aplicación selecciona un nombre al azar del array.
