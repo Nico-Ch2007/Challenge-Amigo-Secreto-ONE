@@ -5,7 +5,9 @@ Este proyecto es una aplicación web interactiva que permite ingresar nombres de
 Lenguajes usados:
 
 HTML5: Estructura de la página.
+
 CSS3: Estilos visuales, incluyendo Flexbox y variables CSS para colores.
+
 JavaScript: Lógica para agregar, mostrar, sortear y limpiar los nombres.
 
 Funcionalidades
